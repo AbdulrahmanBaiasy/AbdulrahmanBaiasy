@@ -1,18 +1,22 @@
 ### Hi there, I'm Abdulrahman 👋
-
-**`Backend Dev`**
+Informatics Engineering student, and Junior Backend developer mainly building with Django! 
+I have experience with Python, Java, C++, MySQL, and PostgreSQL.
 
 ![](https://komarev.com/ghpvc/?username=AbdulrahmanBaiasy&color=green)
+
+ 📫 How to reach me **abdnbayasi@gmail.com**
 
 ---
 
 ### Connect with me:
 
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/abdulrahmanbaiasy#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/abdulrahmanbaiasy#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/abdulrahman.baiasy#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/abdulrahman.baiasy#gh-dark-mode-only)
+<!-- Social icons section -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/abdulrahmanbaiasy/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+
+</p>
+
 
 ---
 
@@ -21,6 +25,9 @@
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="Django" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
 <img align="left" alt="VSCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
+<img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+<img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<img align="left" alt="SQLITE" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
